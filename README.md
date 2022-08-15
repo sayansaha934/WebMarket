@@ -2,7 +2,7 @@
 - Email ID: sayansaha934@gmail.com
 
 
-## Analyses images of retail shelf displays and detect the object on shelf
+## Analysis of images of retail shelf displays and detection the object on shelf
 
 
 
