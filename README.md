@@ -1,6 +1,3 @@
-- Name: Sayan Saha
-- Email ID: sayansaha934@gmail.com
-
 
 ## Analysis of images of retail shelf displays and detection the object on shelf
 
